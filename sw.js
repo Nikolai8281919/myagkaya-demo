@@ -3,7 +3,7 @@
 // Запросы к базе данных (Supabase) и любым другим сайтам сюда НЕ попадают:
 // данные заявок не кэшируются и всегда свежие.
 var CACHE = "myagkaya-v2";
-var CORE = ["./", "index.html", "manifest.json", "icon-192.png.PNG", "icon-512.png.PNG", "three.min.js",
+var CORE = ["./", "index.html", "manifest.json", "icon-192.png.PNG.png", "icon-512.png.PNG.png", "three.min.js",
   "https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"];
 
 self.addEventListener("install", function (e) {
