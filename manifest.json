@@ -1,0 +1,16 @@
+{
+  "name": "Мягкая чистка — химчистка мебели",
+  "short_name": "Мягкая чистка",
+  "description": "Выездная химчистка мебели в Москве: диваны, кресла, матрасы, ковры.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f7fb",
+  "theme_color": "#2563eb",
+  "lang": "ru",
+  "icons": [
+    { "src": "icon-192.png.PNG", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png.PNG", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
